@@ -1,0 +1,6 @@
+com/springshop/web/security/JwtRequestFilter.class
+com/springshop/web/controller/AuthController.class
+com/springshop/web/model/AuthenticationResponse.class
+com/springshop/web/config/WebSecurityConfig.class
+com/springshop/web/security/JwtUtils.class
+com/springshop/web/model/AuthenticationRequest.class

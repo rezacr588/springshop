@@ -1,0 +1,3 @@
+com/springshop/service/security/UserDetailsServiceImpl.class
+com/springshop/service/entity/User.class
+com/springshop/service/repository/UserRepository.class
